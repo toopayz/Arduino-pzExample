@@ -1,0 +1,5 @@
+{
+    "port": "COM4",
+    "board": "arduino:avr:uno",
+    "sketch": "LED_Dance\\LED_Dance.ino"
+}
